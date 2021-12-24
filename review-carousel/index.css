@@ -1,0 +1,53 @@
+:root {
+  --pry-color: rgb(100, 133, 240);
+}
+
+body {
+  background-color: rgb(225, 232, 233);
+  text-align: center;
+}
+h1 {
+  margin-bottom: 0px;
+}
+
+.line {
+  position: relative;
+  bottom: 100px;
+  left: 10px;
+  margin: 0px;
+  font-size: 100px;
+  color: var(--pry-color);
+}
+main {
+  overflow: auto;
+  width: 550px;
+  height: 400px;
+  margin: 0px auto;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px 3px rgb(143, 138, 138, 0.7);
+}
+
+img {
+  margin-top: 10px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.quoter {
+  position: relative;
+}
+.quote {
+  position: absolute;
+  top: 50px;
+}
+i {
+  color: var(--pry-color);
+}
+
+button {
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  border-color: var(--pry-color);
+}

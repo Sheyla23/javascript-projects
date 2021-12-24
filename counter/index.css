@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  margin: 30vw auto;
+}
+
+button {
+  font-weight: bold;
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+p {
+  font-weight: bold;
+  font-size: 40px;
+}

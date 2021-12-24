@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-color: rgba(238, 241, 222, 0.582);
+}
+
+input {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+section {
+  background-color: #ffffff;
+  margin: 0px auto;
+  width: 150px;
+  transition: 1s;
+}
+.weather {
+  max-width: 100%;
+}

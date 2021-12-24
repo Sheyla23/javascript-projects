@@ -1,0 +1,30 @@
+body {
+  background-color: rgba(95, 158, 160, 0.377);
+  margin: 0px;
+}
+
+header {
+  background-color: white;
+
+  height: 30vh;
+  position: relative;
+}
+
+header h1 {
+  position: absolute;
+  left: 35vw;
+  bottom: 2px;
+}
+
+.result {
+  font-weight: bold;
+  text-align: center;
+  display: none;
+}
+
+.submit {
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 70vw;
+  text-align: center;
+}
